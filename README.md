@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -12,12 +13,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -35,4 +38,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
