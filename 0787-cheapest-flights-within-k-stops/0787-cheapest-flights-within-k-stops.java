@@ -14,7 +14,7 @@ class Solution {
         int node;
         int cost;
         int stops;
-        // FIX 1: Parameter name matched correctly
+
         Triplet(int node, int cost, int stops) {
             this.node = node;
             this.cost = cost;
@@ -41,16 +41,13 @@ class Solution {
             Triplet top = pq.remove();
             int node = top.node, cost = top.cost, stops = top.stops;
             
-            // Agar stops limit cross ho gayi hai, toh aage explore mat karo
             if(stops > k) continue; 
             
             for(Pair p : adj.get(node)) {
                 int totalCost = cost + p.cost;
                 
-                // Sasta raasta mila toh update karo aur queue mein daalo
                 if(totalCost < ans[p.node]) {
                     ans[p.node] = totalCost;
-                    // FIX 2 & 3: stops + 1 kiya hai agle step ke liye
                     pq.add(new Triplet(p.node, totalCost, stops + 1));
                 }
             }
