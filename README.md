@@ -9,6 +9,7 @@
 | [0210-course-schedule-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -21,6 +22,7 @@
 | [0210-course-schedule-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -32,6 +34,7 @@
 | [0210-course-schedule-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -62,13 +65,19 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
