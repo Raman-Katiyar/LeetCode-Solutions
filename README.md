@@ -51,6 +51,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
@@ -95,11 +96,21 @@
 ## Hash Table
 |  |
 | ------- |
+| [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 ## String
 |  |
 | ------- |
+| [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+## Design
+|  |
+| ------- |
+| [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
+## Trie
+|  |
+| ------- |
+| [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 <!---LeetCode Topics End-->
