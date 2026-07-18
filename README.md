@@ -122,4 +122,12 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
+## Greedy
+|  |
+| ------- |
+| [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 <!---LeetCode Topics End-->
