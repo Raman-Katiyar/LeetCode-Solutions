@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
@@ -80,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
