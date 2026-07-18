@@ -38,12 +38,14 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
@@ -57,6 +59,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -130,4 +133,8 @@
 |  |
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
