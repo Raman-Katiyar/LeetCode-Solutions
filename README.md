@@ -131,6 +131,7 @@
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 ## Greedy
 |  |
