@@ -138,6 +138,7 @@
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Greedy
 |  |
 | ------- |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
