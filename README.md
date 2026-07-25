@@ -62,6 +62,7 @@
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
