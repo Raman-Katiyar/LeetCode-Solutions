@@ -69,6 +69,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 ## Matrix
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -160,6 +162,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1510-stone-game-iv](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
@@ -205,4 +208,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Simulation
+|  |
+| ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 <!---LeetCode Topics End-->
