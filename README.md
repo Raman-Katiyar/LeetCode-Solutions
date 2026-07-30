@@ -127,6 +127,7 @@
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3889-mirror-frequency-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## String
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3889-mirror-frequency-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## Design
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3889-mirror-frequency-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## Two Pointers
 |  |
 | ------- |
