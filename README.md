@@ -54,6 +54,7 @@
 | ------- |
 | [0198-house-robber](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0739-daily-temperatures](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -162,6 +164,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
@@ -202,6 +205,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -214,6 +218,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Combinatorics
 |  |
