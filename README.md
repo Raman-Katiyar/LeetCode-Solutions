@@ -104,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -165,6 +166,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -226,6 +228,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Simulation
 |  |
