@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -74,6 +75,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
