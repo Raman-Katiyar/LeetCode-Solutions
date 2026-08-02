@@ -64,6 +64,7 @@
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
@@ -116,6 +118,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1510-stone-game-iv](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Sorting
