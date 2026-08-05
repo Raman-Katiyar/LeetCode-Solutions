@@ -14,6 +14,7 @@
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
