@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         
