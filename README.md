@@ -60,6 +60,7 @@
 | [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0739-daily-temperatures](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -110,6 +111,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -123,6 +125,7 @@
 | [0070-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -206,6 +209,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -244,6 +248,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Game Theory
 |  |
