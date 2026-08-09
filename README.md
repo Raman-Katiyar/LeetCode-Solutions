@@ -71,6 +71,7 @@
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -133,6 +134,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -203,6 +205,7 @@
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -255,12 +258,14 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Combinatorics
@@ -275,10 +280,12 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
