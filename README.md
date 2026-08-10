@@ -176,6 +176,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3798-largest-even-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3798-largest-even-number) |
 | [3889-mirror-frequency-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## Design
 |  |
