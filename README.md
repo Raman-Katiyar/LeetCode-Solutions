@@ -175,6 +175,7 @@
 | [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
