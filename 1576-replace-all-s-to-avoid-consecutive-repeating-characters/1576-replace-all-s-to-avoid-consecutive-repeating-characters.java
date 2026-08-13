@@ -1,20 +1,25 @@
 class Solution {
     public String modifyString(String s) {
-        char[] arr = s.toCharArray();
-        int n = arr.length;
+        String ans = "";
+        
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) != '?') {
+                ans += s.charAt(i);
+            }
 
-        for (int i = 0; i < n; i++) {
-            if (arr[i] == '?') {
-                for (char ch = 'a'; ch <= 'z'; ch++) {
-                    boolean matchesLeft = (i > 0 && arr[i - 1] == ch);
-                    boolean matchesRight = (i < n - 1 && arr[i + 1] == ch);
-                    if (!matchesLeft && !matchesRight) {
-                        arr[i] = ch;
-                        break;      
+            if (s.charAt(i) == '?') {
+                for (char j = 'a'; j <= 'z'; j++) {
+                    boolean leftMatch = (i > 0 && ans.charAt(i - 1) == j);
+                    boolean rightMatch = (i < s.length() - 1 && s.charAt(i + 1) == j);
+
+                    if (!leftMatch && !rightMatch) {
+                        ans += j;
+                        break;
                     }
                 }
             }
         }
-        return new String(arr); 
+        
+        return ans;
     }
 }
