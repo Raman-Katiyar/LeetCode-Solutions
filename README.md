@@ -73,6 +73,7 @@
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1386-cinema-seat-allocation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -163,6 +164,7 @@
 | [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [1386-cinema-seat-allocation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
@@ -234,6 +236,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
+| [1386-cinema-seat-allocation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -260,6 +263,7 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1386-cinema-seat-allocation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
 |  |
 | ------- |
