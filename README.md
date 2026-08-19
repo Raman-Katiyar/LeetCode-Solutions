@@ -141,6 +141,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -182,6 +183,7 @@
 | [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
+| [1143-longest-common-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -343,4 +345,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
