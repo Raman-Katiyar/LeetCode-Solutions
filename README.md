@@ -137,6 +137,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -180,6 +181,7 @@
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
