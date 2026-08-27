@@ -180,6 +180,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3889-mirror-frequency-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## String
@@ -202,6 +203,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3798-largest-even-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3798-largest-even-number) |
 | [3889-mirror-frequency-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## Design
@@ -251,6 +253,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3889-mirror-frequency-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3889-mirror-frequency-distance) |
 ## Two Pointers
 |  |
@@ -325,6 +329,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Knapsack Problem
 |  |
 | ------- |
