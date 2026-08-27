@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -265,6 +266,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
