@@ -232,6 +232,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0268-missing-number) |
