@@ -98,6 +98,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
