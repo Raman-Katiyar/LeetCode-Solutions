@@ -145,6 +145,7 @@
 | [0063-unique-paths-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -201,6 +202,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
