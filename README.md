@@ -375,6 +375,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -410,4 +411,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0139-word-break) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
