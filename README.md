@@ -14,6 +14,7 @@
 | [0841-keys-and-rooms](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -423,4 +424,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
