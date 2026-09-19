@@ -7,6 +7,7 @@
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -23,6 +24,7 @@
 | [0207-course-schedule](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -38,6 +40,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -51,6 +54,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
