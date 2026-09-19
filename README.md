@@ -97,6 +97,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -176,6 +177,7 @@
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -201,6 +203,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -230,6 +233,7 @@
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -248,6 +252,7 @@
 | ------- |
 | [0139-word-break](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0745-prefix-and-suffix-search](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0745-prefix-and-suffix-search) |
+| [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
