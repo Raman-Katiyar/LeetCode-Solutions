@@ -159,6 +159,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -273,6 +275,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -460,4 +463,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
