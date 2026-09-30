@@ -160,6 +160,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -237,6 +238,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -311,6 +313,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -353,6 +356,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
