@@ -192,6 +192,7 @@
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1092-shortest-common-supersequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -256,6 +257,7 @@
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0940-distinct-subsequences-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1092-shortest-common-supersequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -453,6 +455,7 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Brute-Force Search
 |  |
