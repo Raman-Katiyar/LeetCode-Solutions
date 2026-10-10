@@ -5,7 +5,7 @@ class Solution {
             else return false;
         }
         if(dp[i][target]!=-1) return (dp[i][target]==1);
-        boolean ans = false;
+        boolean ans = true;
         boolean skip = subset(i+1,arr,target,dp);
         if(target-arr[i]<0) ans = skip;
         else{
