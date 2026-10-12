@@ -492,4 +492,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
