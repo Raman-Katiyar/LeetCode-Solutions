@@ -93,6 +93,7 @@
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -198,6 +199,7 @@
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -433,10 +435,12 @@
 | [0279-perfect-squares](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Nim Game
 |  |
 | ------- |
