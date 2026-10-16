@@ -113,6 +113,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -237,6 +238,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -460,6 +462,7 @@
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -511,4 +514,5 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
