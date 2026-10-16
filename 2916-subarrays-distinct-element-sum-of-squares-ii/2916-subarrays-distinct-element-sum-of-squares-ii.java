@@ -1,6 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     int MOD = 1_000_000_007;
     long[] s1, s2, lz;
