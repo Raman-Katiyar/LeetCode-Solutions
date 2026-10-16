@@ -80,6 +80,7 @@
 | [0377-combination-sum-iv](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -189,6 +190,7 @@
 | [0377-combination-sum-iv](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -261,6 +263,7 @@
 | [0091-decode-ways](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0474-ones-and-zeroes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -436,12 +439,14 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Nim Game
 |  |
