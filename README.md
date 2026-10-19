@@ -93,6 +93,7 @@
 | [0748-shortest-completing-word](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0879-profitable-schemes) |
 | [0983-minimum-cost-for-tickets](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -204,6 +205,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0879-profitable-schemes) |
 | [0940-distinct-subsequences-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -450,12 +452,14 @@
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0879-profitable-schemes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0879-profitable-schemes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Nim Game
 |  |
