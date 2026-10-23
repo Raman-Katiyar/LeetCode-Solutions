@@ -116,6 +116,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -222,6 +223,7 @@
 | [1510-stone-game-iv](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -410,6 +412,7 @@
 | [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3903-smallest-stable-index-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
