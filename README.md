@@ -103,6 +103,7 @@
 | [1140-stone-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -172,6 +173,7 @@
 | [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -238,6 +240,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -391,6 +394,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
