@@ -183,6 +183,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0062-unique-paths) |
@@ -280,6 +281,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0072-edit-distance) |
@@ -542,6 +544,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Graph Coloring
 |  |
@@ -572,4 +575,8 @@
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
