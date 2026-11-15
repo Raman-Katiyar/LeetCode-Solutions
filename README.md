@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -186,6 +187,7 @@
 | [0022-generate-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0738-monotone-increasing-digits](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
