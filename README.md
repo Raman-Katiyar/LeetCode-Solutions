@@ -236,6 +236,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -310,6 +311,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2707-extra-characters-in-a-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -404,6 +406,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman-Katiyar/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
